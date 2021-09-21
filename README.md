@@ -3,8 +3,8 @@
 
 ## Description
 
-This project is a CBC moded AES-128 pure python module.
-It requires no dependencies at all an is implemented with native python3 only.
+This project is a CBC moded AES-128 pure python implementation.
+It requires no dependencies at all as is was implemented with native python3 only.
 
 ## Getting Started
 
@@ -48,6 +48,12 @@ cd aes/
 python aes.py
 ```
 
+### Tests Passed
+
+```
+Tests Passed Successfully
+```
+
 ## Roadmap
 
 In the future, I will add an implementations of another major AES modes of operations, such as OCB, CTR, etc.
@@ -59,9 +65,3 @@ In the future, I will add an implementations of another major AES modes of opera
 ## License
 
 Doraemon is licensed under the MIT license, see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
