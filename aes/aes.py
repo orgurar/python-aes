@@ -258,7 +258,7 @@ def test():
     print(f"Ciphertext Hex: {ciphertext.hex()}")
     print(f"Plaintext: {plaintext.decode()}")
     assert text == plaintext
-    print(bcolors.OK + "Short Text Test Passed Successfully" + bcolors.RESET)
+    print(bcolors.OK + "Arbitrary Length Text Test Passed Successfully" + bcolors.RESET)
     print()
 
 
